@@ -25,6 +25,7 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+![img1](https://github.com/user-attachments/assets/35b27db7-08c0-4640-add6-ba992623e6a7)
 
 Remove the directory "my-folder"
 
